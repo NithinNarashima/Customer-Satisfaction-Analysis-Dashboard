@@ -60,3 +60,10 @@
 
 ## 🔗 Dataset Source
 The data is internally generated or simulated for the purpose of analysis and dashboard creation.
+
+## 👤 Author
+
+**R. Nithin Narashima**  
+Fresher | Pursuing Data Analytics  
+Skilled in Python, Excel, SQL, Tableau, Power BI  
+Tamil Nadu, India
